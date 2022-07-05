@@ -44,8 +44,6 @@ class JSONFileWriterTest {
                 e1.printStackTrace();
             }
 
-
-
         List<String> expectedProcessedData= Arrays.asList(
                 jsonProperty1,
                 jsonProperty2,

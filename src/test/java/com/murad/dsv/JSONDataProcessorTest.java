@@ -42,7 +42,4 @@ class JSONDataProcessorTest {
 
     }
 
-    @Test
-    void mapJSONProperties() {
-    }
 }

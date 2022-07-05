@@ -23,7 +23,6 @@ public class JSONFileWriter implements IFileWriter {
     }
 
 
-
     @Override
     public void writeFile() throws IOException {
         String userHome = System.getProperty("user.home");

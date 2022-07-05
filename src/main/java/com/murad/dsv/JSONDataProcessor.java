@@ -55,7 +55,6 @@ public class JSONDataProcessor implements DataProcessor {
     }
 
 
-
     public void mapJSONProperties(String lineContainingHeader, List<String> jsonProperties) {
 
         FIELD_DELIMITER_PATTERN.splitAsStream(lineContainingHeader)
