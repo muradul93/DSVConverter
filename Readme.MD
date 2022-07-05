@@ -29,12 +29,12 @@ one can find output json file form printed output file directory.
 
 example:
 -----
-_C:\Users\murad>java -jar "D:\projects\dsvconverter\target\DSVConverter.jar"
+`_C:\Users\murad>java -jar "D:\projects\dsvconverter\target\DSVConverter.jar"
 Argument Not Provided With Jar.
 Please Enter file Path
 D:\projects\dsvconverter\src\main\resources\DSV input 1.txt
 Entered file path : D:\projects\dsvconverter\src\main\resources\DSV input 1.txt
 Please Enter DELIMITER_PATTERN
 ,(?=(?:[^"]*"[^"]*")*[^"]*$)
-Entered DELIMITER_PATTERN : ,(?=(?:[^"]*"[^"]*")*[^"]*$)_
+Entered DELIMITER_PATTERN : ,(?=(?:[^"]*"[^"]*")*[^"]*$)_`
 -----
