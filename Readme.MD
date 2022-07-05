@@ -27,8 +27,8 @@ after providing file path it will ask for DELIMITER_PATTERN.
 one can find output json file form printed output file directory.
 
 
-example:
------
+Example:
+
 `_C:\Users\murad>java -jar "D:\projects\dsvconverter\target\DSVConverter.jar"
 Argument Not Provided With Jar.
 Please Enter file Path
@@ -37,4 +37,3 @@ Entered file path : D:\projects\dsvconverter\src\main\resources\DSV input 1.txt
 Please Enter DELIMITER_PATTERN
 ,(?=(?:[^"]*"[^"]*")*[^"]*$)
 Entered DELIMITER_PATTERN : ,(?=(?:[^"]*"[^"]*")*[^"]*$)_`
------
